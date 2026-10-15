@@ -1,0 +1,6 @@
+{
+  "name": "CHOCOLOCO - Gourmet Artisanal Bakery & Dessert",
+  "description": "Artisanal handcrafted cakes, gourmet cupcakes, decadent desserts, dynamic UPI payment QR, and AI Bakery Concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
